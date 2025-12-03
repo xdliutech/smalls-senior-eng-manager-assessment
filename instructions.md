@@ -8,7 +8,7 @@ Please provide your answer in a file named **response.md**.
 
 ---
 
-# 📌 Summary of the Scenario
+# Summary of the Scenario
 
 Imagine a subscription-based commerce company that uses:
 
