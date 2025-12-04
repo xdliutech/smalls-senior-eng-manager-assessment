@@ -48,7 +48,7 @@ Is the existing e-commerce platform still the right fit — or should the compan
 
 # Your Task
 
-Provide a ** high-level technical and strategic assessment**, focusing on how you would guide engineering direction and collaborate with cross-functional teams.
+Provide a **high-level technical and strategic assessment**, focusing on how you would guide engineering direction and collaborate with cross-functional teams.
 
 You do *not* need to design a full architecture.  
 We are evaluating **reasoning, clarity, and leadership**.
